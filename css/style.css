@@ -1,0 +1,59 @@
+:root {
+	--color-letra: #686868;
+	--color-azul: #fff
+}
+
+#headerer 
+
+
+#acerca {
+	
+	align-items: center;
+	padding: 10%;
+}
+
+#servicios {
+	
+	align-items: center;
+	padding: 10%;
+}
+
+#proyectos {
+	
+	align-items: center;
+	padding: 10%;
+}
+
+#contacto {
+	
+	align-items: center;
+	padding: 10%;
+}
+
+
+
+.owl-carousel .owl-item img{
+	width: 700px;
+	margin:inherit 20px;
+}
+
+
+.owl-carousel .owl-dots {
+    text-align: center;
+}
+.owl-carousel .owl-dot {
+    height: 11px;
+    width: 11px;
+    border: 2px solid #a49fba !important;
+    border-radius: 50%;
+    margin: 35px 6px;
+}
+.owl-carousel .owl-dot.active {
+    background-color: var(--color-azul);
+    border: 0 !important;
+}
+
+.clients-carousel {
+  max-width: 80%;
+  margin: auto;
+}
